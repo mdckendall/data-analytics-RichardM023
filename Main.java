@@ -17,9 +17,9 @@ class Main {
       number = scanner.nextInt();
       switch (number) { 
         case 1:
-          System.out.println("98,345 average salary in South Florida");
+          System.out.println("$98,345 average salary in South Florida!");
 break;
-        case 2: System.out.println("US News - 100 best Jobs!");
+        case 2: System.out.println("US News - 100 Best Jobs!");
           break;
         case 3: 
           System.out.println("Top 10 Forbes In-Demand Jobs!");
